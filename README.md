@@ -1,4 +1,4 @@
-# Portfólio Pessoal
+# Projeto Portfólio
 
 Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar minhas habilidades e projetos. Ele é construído com HTML, CSS e JavaScript, seguindo as melhores práticas de desenvolvimento front-end.
 
